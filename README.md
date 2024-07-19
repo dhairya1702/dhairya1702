@@ -1,9 +1,8 @@
 # **Hey there, I'm Dhairya Lalwani 👋** #
 
-👨‍💻 By day, I'm a mild-mannered software engineer. By night, I transform into a code-wielding machine, 
-battling bugs and deploying features faster than you can say "Hello, World!" :sunglasses: . 
+👨‍💻 By day, I'm a mild-mannered software engineer. By night, I transform into a code-wielding machine, battling bugs and deploying features faster than you can say "Hello, World!" :sunglasses: 
 
-When I'm not coding, you might find me plotting my next big project 👀 or meticulously dissecting esports strategies to outplay the competition 🤓 :relieved: .
+When I'm not coding, you might find me plotting my next big project 👀 or dissecting esports strategies to outplay the competition 🤓    <br><br>
 
  **A Little About Me** :
  
@@ -13,9 +12,7 @@ When I'm not coding, you might find me plotting my next big project 👀 or meti
 
 📊 I crunch numbers, chase data, and love figuring out how things tick.
 
-🕹️ Gaming strategist extraordinaire, I dive into the depths of complex games to uncover winning tactics.  <br><br><br><br>
-
-
+🕹️ Gaming strategist extraordinaire, I dive into the depths of complex games to uncover winning tactics.  <br><br><br>
 
 
 
