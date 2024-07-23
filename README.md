@@ -19,14 +19,14 @@ When I'm not coding, you might find me plotting my next big project 👀 or diss
 ### **Some stuff that i have built 👷‍♂️:** ### 
 <br>
 
-## FileWhisperer | ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
+## [FileWhisperer](https://github.com/dhairya1702/FileWhisperer) | ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
 
 💻 AI chatbot that interacts with diverse file types.
 
 🚀 Integrated OpenAI API for advanced NLP capabilities.
 
 
-## <br>**TurboCRNN** | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-065535?style=plastic&logo=machine-learning&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD?style=plastic&logo=deep-learning&logoColor=white) ![CRNN](https://img.shields.io/badge/CRNN-1E90FF?style=plastic&logo=neural-network&logoColor=white) ##
+## <br>**[TurboCRNN](https://github.com/dhairya1702/TurboCRNN)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-065535?style=plastic&logo=machine-learning&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD?style=plastic&logo=deep-learning&logoColor=white) ![CRNN](https://img.shields.io/badge/CRNN-1E90FF?style=plastic&logo=neural-network&logoColor=white) ##
 
 ⭐ A Robust and Efficient Architecture for Wake Word Detection.
 
