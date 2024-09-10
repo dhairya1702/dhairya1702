@@ -1,9 +1,5 @@
 # **Hey there, I'm Dhairya Lalwani 👋** #
 
-👨‍💻 By day, I'm a mild-mannered software engineer. By night, I transform into a code-wielding machine, battling bugs and deploying features faster than you can say "Hello, World!" :sunglasses: 
-
-When I'm not coding, you might find me plotting my next big project 👀 or dissecting esports strategies to outplay the competition 🤓    <br><br>
-
  **A Little About Me** :
  
 💻  Currently pursuing Master of Science in Computer Science at Rochester Institute of Technology
