@@ -32,7 +32,7 @@
 🛠️ Designed for scalability and extensibility, supporting additional file types and integrations for future use cases.
 
 
-## <br>[WebCrawler](https://github.com/dhairya1702/WebCrawler) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2E86C1?style=plastic&logo=playwright&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
+## <br>[WebCrawler](https://github.com/dhairya1702/Web-crawler) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2E86C1?style=plastic&logo=playwright&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
 
 🌐 An asynchronous web crawler leveraging Playwright for high-performance browser automation and BeautifulSoup for HTML parsing.
 
