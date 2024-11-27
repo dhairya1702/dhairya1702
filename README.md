@@ -27,22 +27,20 @@
 
 📊 Equipped with similarity search using Annoy, enabling precise query-based retrieval of information from documents.
 
-⚙️ Robust architecture integrating Flask for the backend, MySQL for database management, and seamless front-end interactivity using JavaScript, HTML, and CSS.
-
 🛠️ Designed for scalability and extensibility, supporting additional file types and integrations for future use cases.
 
 
-## <br>[WebCrawler](https://github.com/dhairya1702/Web-crawler) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2E86C1?style=plastic&logo=playwright&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
+## <br>[Content Sentiment Analyzer](https://github.com/dhairya1702/Content-Sentiment-Analyzer) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-000000?style=plastic&logo=nltk&logoColor=white) ![TextBlob](https://img.shields.io/badge/TextBlob-8E44AD?style=plastic&logo=textblob&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
 
-🌐 An asynchronous web crawler leveraging Playwright for high-performance browser automation and BeautifulSoup for HTML parsing.
+📊 Extracts and analyzes text from web pages and transcripts to identify sentiment for specific keywords.
 
-🔍 Filters and extracts links based on specific patterns (e.g., "our-insights", "publications") for domain-specific crawling.
+🌐 Leverages BeautifulSoup for content extraction and supports transcript processing using `speech_recognition`.
 
-⚙️ Customizable features, including maximum URLs, delay between requests, and output file configurations.
+🔍 Utilizes NLTK and WordNet for text tokenization, lemmatization, and synonym detection.
 
-🛡️ Bypasses paywalls and content restrictions to access full HTML content for deeper analysis.
+⚙️ Determines sentiment using TextBlob and presents results in a structured pandas DataFrame.
 
-🚀 Scalable architecture, designed for extensibility and real-world use cases.
+🚀 Configurable and extensible design for supporting additional keywords and content sources.
 
 
 ## <br>**[TurboCRNN](https://github.com/dhairya1702/TurboCRNN)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-065535?style=plastic&logo=machine-learning&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD?style=plastic&logo=deep-learning&logoColor=white) ![CRNN](https://img.shields.io/badge/CRNN-1E90FF?style=plastic&logo=neural-network&logoColor=white) ##
@@ -60,6 +58,20 @@
 ⚙️ Supports transfer learning for domain-specific wake word customization, making it adaptable for various industries.
 
 🛠️ Extensible and optimized for scalability, enabling deployment on edge devices and cloud platforms.
+
+
+## <br>[WebCrawler](https://github.com/dhairya1702/Web-crawler) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2E86C1?style=plastic&logo=playwright&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
+
+🌐 An asynchronous web crawler leveraging Playwright for high-performance browser automation and BeautifulSoup for HTML parsing.
+
+🔍 Filters and extracts links based on specific patterns (e.g., "our-insights", "publications") for domain-specific crawling.
+
+⚙️ Customizable features, including maximum URLs, delay between requests, and output file configurations.
+
+🛡️ Bypasses paywalls and content restrictions to access full HTML content for deeper analysis.
+
+🚀 Scalable architecture, designed for extensibility and real-world use cases.
+
 
 
 
