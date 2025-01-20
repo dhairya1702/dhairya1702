@@ -30,6 +30,34 @@
 🛠️ Designed for scalability and extensibility, supporting additional file types and integrations for future use cases.
 
 
+## <br>[Unsupervised Data Augmentation for Text Classification using BERT](https://github.com/dhairya1702/UDA-textclassification-Bert) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-000000?style=plastic&logoColor=white) ![Natural Language Processing](https://img.shields.io/badge/NLP-065535?style=plastic&logo=nlp&logoColor=white) ![Text Classification](https://img.shields.io/badge/Text_Classification-1E90FF?style=plastic&logo=machine-learning&logoColor=white) ##
+
+📚 Developed an UDA framework to enhance text classification performance in low-resource settings by leveraging unlabeled data for improved generalization.
+
+📊 Achieved a 40% reduction in error rates on datasets such as IMDb, Yelp, Amazon, and DBpedia by enriching training data with advanced augmentation techniques.
+
+🔍 Utilized BERT transformers and back-translation to generate semantically diverse and robust training data.
+
+⚙️ Designed a TF-IDF-based word replacement technique** to preserve critical keywords, optimizing topic classification performance.
+
+🚀 Achieved 62.5% evaluation accuracy with minimal labeled data, showcasing UDA’s scalability and adaptability for real-world applications.
+
+
+## <br>[SmartWebCrawler: ML Dataset Builder](https://github.com/dhairya1702/Web-crawler) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2E86C1?style=plastic&logo=playwright&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
+
+🌐 Designed and built a SmartWebCrawler to automate the creation of machine learning datasets by extracting domain-specific data from the web.
+
+🔍 Filters and collects structured content such as research articles, publications, and datasets using advanced HTML parsing with BeautifulSoup and automated browsing with Playwright.
+
+⚙️ Supports custom crawling configurations, including URL filters, crawling depth, delays between requests, and output formats, making it adaptable for varied data requirements.
+
+📊 Automatically preprocesses and structures crawled data for direct integration into machine learning pipelines.
+
+🛡️ Handles content restrictions like paywalls and captchas for seamless data access, ensuring comprehensive dataset collection.
+
+🚀 Scalable and extensible architecture, capable of supporting additional data types and integrations for building specialized ML datasets.
+
+
 ## <br>[Content Sentiment Analyzer](https://github.com/dhairya1702/Content-Sentiment-Analyzer) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-000000?style=plastic&logo=nltk&logoColor=white) ![TextBlob](https://img.shields.io/badge/TextBlob-8E44AD?style=plastic&logo=textblob&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
 
 📊 Extracts and analyzes text from web pages and transcripts to identify sentiment for specific keywords.
@@ -59,18 +87,6 @@
 
 🛠️ Extensible and optimized for scalability, enabling deployment on edge devices and cloud platforms.
 
-
-## <br>[WebCrawler](https://github.com/dhairya1702/Web-crawler) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2E86C1?style=plastic&logo=playwright&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
-
-🌐 An asynchronous web crawler leveraging Playwright for high-performance browser automation and BeautifulSoup for HTML parsing.
-
-🔍 Filters and extracts links based on specific patterns (e.g., "our-insights", "publications") for domain-specific crawling.
-
-⚙️ Customizable features, including maximum URLs, delay between requests, and output file configurations.
-
-🛡️ Bypasses paywalls and content restrictions to access full HTML content for deeper analysis.
-
-🚀 Scalable architecture, designed for extensibility and real-world use cases.
 
 
 
