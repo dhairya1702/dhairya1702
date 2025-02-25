@@ -14,10 +14,25 @@
 
 
 
-### **Some stuff that i have built 👷‍♂️:** ### 
-<br>
+## **Some stuff that i have built 👷‍♂️:** ##
 
-## [FileWhisperer](https://github.com/dhairya1702/FileWhisperer) | ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
+
+## <br>[Federated Learning with Flower & PyTorch](https://github.com/dhairya1702/Federated-learning) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white) ![Federated Learning](https://img.shields.io/badge/Federated_Learning-008080?style=plastic&logo=ai&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFA500?style=plastic&logo=machinelearning&logoColor=white) ##
+
+🌍 Built a **federated learning** framework using **Flower** and **PyTorch**, enabling decentralized model training across multiple clients.  
+
+📊 Implemented **Trust & Reputation Mechanisms** 🏆 to mitigate adversarial attacks, ensuring secure and reliable model aggregation.  
+
+🧪 Simulated **data poisoning attacks** by flipping labels in **Clients 9 & 10**, analyzing their impact on global model performance.  
+
+⚡ Designed **custom aggregation strategies** to enhance robustness against unreliable client updates.  
+
+📈 Achieved **scalable and privacy-preserving training**, enabling collaborative learning without sharing raw data.  
+
+🚀 Includes **detailed visualization plots** to track loss, accuracy, and the effectiveness of trust-based aggregation strategies.  
+
+
+## <br>[FileWhisperer](https://github.com/dhairya1702/FileWhisperer) | ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
 
 💻 A multi-functional AI-powered chatbot that interacts with diverse file types, including PDFs, Word documents, and text files.
 
@@ -58,19 +73,6 @@
 🚀 Scalable and extensible architecture, capable of supporting additional data types and integrations for building specialized ML datasets.
 
 
-## <br>[Content Sentiment Analyzer](https://github.com/dhairya1702/Content-Sentiment-Analyzer) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-000000?style=plastic&logo=nltk&logoColor=white) ![TextBlob](https://img.shields.io/badge/TextBlob-8E44AD?style=plastic&logo=textblob&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
-
-📊 Extracts and analyzes text from web pages and transcripts to identify sentiment for specific keywords.
-
-🌐 Leverages BeautifulSoup for content extraction and supports transcript processing using `speech_recognition`.
-
-🔍 Utilizes NLTK and WordNet for text tokenization, lemmatization, and synonym detection.
-
-⚙️ Determines sentiment using TextBlob and presents results in a structured pandas DataFrame.
-
-🚀 Configurable and extensible design for supporting additional keywords and content sources.
-
-
 ## <br>**[TurboCRNN](https://github.com/dhairya1702/TurboCRNN)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-065535?style=plastic&logo=machine-learning&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD?style=plastic&logo=deep-learning&logoColor=white) ![CRNN](https://img.shields.io/badge/CRNN-1E90FF?style=plastic&logo=neural-network&logoColor=white) ##
 
 ⭐ A high-performance Convolutional Recurrent Neural Network (CRNN) designed for wake word detection in voice-based applications.
@@ -86,6 +88,19 @@
 ⚙️ Supports transfer learning for domain-specific wake word customization, making it adaptable for various industries.
 
 🛠️ Extensible and optimized for scalability, enabling deployment on edge devices and cloud platforms.
+
+
+## <br>[Content Sentiment Analyzer](https://github.com/dhairya1702/Content-Sentiment-Analyzer) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-000000?style=plastic&logo=nltk&logoColor=white) ![TextBlob](https://img.shields.io/badge/TextBlob-8E44AD?style=plastic&logo=textblob&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
+
+📊 Extracts and analyzes text from web pages and transcripts to identify sentiment for specific keywords.
+
+🌐 Leverages BeautifulSoup for content extraction and supports transcript processing using `speech_recognition`.
+
+🔍 Utilizes NLTK and WordNet for text tokenization, lemmatization, and synonym detection.
+
+⚙️ Determines sentiment using TextBlob and presents results in a structured pandas DataFrame.
+
+🚀 Configurable and extensible design for supporting additional keywords and content sources.
 
 
 
