@@ -16,23 +16,22 @@
 
 ## **Some stuff that i have built 👷‍♂️:** ##
 
+## <br>[Dhairya's Hedge Fund](https://github.com/dhairya1702/Dhairya-s-Hedge-Fund) &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white) ![yfinance](https://img.shields.io/badge/yfinance-003262?style=plastic&logo=yahoo&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=plastic&logo=plotly&logoColor=white) ##
 
-## <br>[Federated Learning with Flower & PyTorch](https://github.com/dhairya1702/Federated-learning) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white) ![Federated Learning](https://img.shields.io/badge/Federated_Learning-008080?style=plastic&logo=ai&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFA500?style=plastic&logo=machinelearning&logoColor=white) ##
+💸 A multi-agent, AI-powered trading simulation framework for backtesting and optimizing investment strategies on real financial data.
 
-🌍 Built a **federated learning** framework using **Flower** and **PyTorch**, enabling decentralized model training across multiple clients.  
+🤖 Implements LLM-driven trading agents that analyze market signals, historical data, and sentiment to automate adaptive portfolio decisions.
 
-📊 Implemented **Trust & Reputation Mechanisms** 🏆 to mitigate adversarial attacks, ensuring secure and reliable model aggregation.  
+🔄 Supports flexible agent design, allowing comparison and rapid experimentation with custom trading strategies (e.g., value, momentum, sentiment-based).
 
-🧪 Simulated **data poisoning attacks** by flipping labels in **Clients 9 & 10**, analyzing their impact on global model performance.  
+📊 Features a robust backtesting engine to benchmark agent performance, visualize returns and drawdowns, and compare results against market indices.
 
-⚡ Designed **custom aggregation strategies** to enhance robustness against unreliable client updates.  
+🧠 Integrates financial sentiment analysis and news signals for context-aware, realistic trading simulations.
 
-📈 Achieved **scalable and privacy-preserving training**, enabling collaborative learning without sharing raw data.  
-
-🚀 Includes **detailed visualization plots** to track loss, accuracy, and the effectiveness of trust-based aggregation strategies.  
+🛠️ Designed for extensibility, supporting new agent types, data sources, and analytics features for advanced research and innovation.
 
 
-## <br>[FileWhisperer](https://github.com/dhairya1702/FileWhisperer) | ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
+## <br>[KnowMyRights](https://github.com/dhairya1702/FileWhisperer) | ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
 
 💻 A multi-functional AI-powered chatbot that interacts with diverse file types, including PDFs, Word documents, and text files.
 
@@ -44,18 +43,6 @@
 
 🛠️ Designed for scalability and extensibility, supporting additional file types and integrations for future use cases.
 
-
-## <br>[Unsupervised Data Augmentation for Text Classification using BERT](https://github.com/dhairya1702/UDA-textclassification-Bert) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-000000?style=plastic&logoColor=white) ![Natural Language Processing](https://img.shields.io/badge/NLP-065535?style=plastic&logo=nlp&logoColor=white) ![Text Classification](https://img.shields.io/badge/Text_Classification-1E90FF?style=plastic&logo=machine-learning&logoColor=white) ##
-
-📚 Developed an UDA framework to enhance text classification performance in low-resource settings by leveraging unlabeled data for improved generalization.
-
-📊 Achieved a 40% reduction in error rates on datasets such as IMDb, Yelp, Amazon, and DBpedia by enriching training data with advanced augmentation techniques.
-
-🔍 Utilized BERT transformers and back-translation to generate semantically diverse and robust training data.
-
-⚙️ Designed a TF-IDF-based word replacement technique** to preserve critical keywords, optimizing topic classification performance.
-
-🚀 Achieved 62.5% evaluation accuracy with minimal labeled data, showcasing UDA’s scalability and adaptability for real-world applications.
 
 
 ## <br>[SmartWebCrawler: ML Dataset Builder](https://github.com/dhairya1702/Web-crawler) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2E86C1?style=plastic&logo=playwright&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8FC440?style=plastic&logo=beautifulsoup&logoColor=white) ##
@@ -71,6 +58,39 @@
 🛡️ Handles content restrictions like paywalls and captchas for seamless data access, ensuring comprehensive dataset collection.
 
 🚀 Scalable and extensible architecture, capable of supporting additional data types and integrations for building specialized ML datasets.
+
+
+
+
+## <br>[🔐 Enhancing Federated Learning Security with Trust & Reputation Mechanisms](https://github.com/dhairya1702/Federated-learning) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white) ![Federated Learning](https://img.shields.io/badge/Federated_Learning-008080?style=plastic&logo=ai&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFA500?style=plastic&logo=machinelearning&logoColor=white) ##
+
+🌍 Built a **federated learning** framework using **Flower** and **PyTorch**, enabling decentralized model training across multiple clients.  
+
+📊 Implemented **Trust & Reputation Mechanisms** 🏆 to mitigate adversarial attacks, ensuring secure and reliable model aggregation.  
+
+🧪 Simulated **data poisoning attacks** by flipping labels in **Clients 9 & 10**, analyzing their impact on global model performance.  
+
+⚡ Designed **custom aggregation strategies** to enhance robustness against unreliable client updates.  
+
+📈 Achieved **scalable and privacy-preserving training**, enabling collaborative learning without sharing raw data.  
+
+🚀 Includes **detailed visualization plots** to track loss, accuracy, and the effectiveness of trust-based aggregation strategies.  
+
+
+
+
+## <br>[Unsupervised Data Augmentation for Text Classification using BERT](https://github.com/dhairya1702/UDA-textclassification-Bert) | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-000000?style=plastic&logoColor=white) ![Natural Language Processing](https://img.shields.io/badge/NLP-065535?style=plastic&logo=nlp&logoColor=white) ![Text Classification](https://img.shields.io/badge/Text_Classification-1E90FF?style=plastic&logo=machine-learning&logoColor=white) ##
+
+📚 Developed an UDA framework to enhance text classification performance in low-resource settings by leveraging unlabeled data for improved generalization.
+
+📊 Achieved a 40% reduction in error rates on datasets such as IMDb, Yelp, Amazon, and DBpedia by enriching training data with advanced augmentation techniques.
+
+🔍 Utilized BERT transformers and back-translation to generate semantically diverse and robust training data.
+
+⚙️ Designed a TF-IDF-based word replacement technique** to preserve critical keywords, optimizing topic classification performance.
+
+🚀 Achieved 62.5% evaluation accuracy with minimal labeled data, showcasing UDA’s scalability and adaptability for real-world applications.
+
 
 
 ## <br>**[TurboCRNN](https://github.com/dhairya1702/TurboCRNN)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-065535?style=plastic&logo=machine-learning&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD?style=plastic&logo=deep-learning&logoColor=white) ![CRNN](https://img.shields.io/badge/CRNN-1E90FF?style=plastic&logo=neural-network&logoColor=white) ##
